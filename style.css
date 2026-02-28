@@ -1,0 +1,23 @@
+/*EXTERNAL CSS */ 
+
+h3 {
+    color :blue
+}
+
+/*Element selector */
+h4 {
+    color :green
+}
+/*Class selector */
+.myclass {
+    color :red
+}
+/*ID selector */
+#myid {
+    color :orange
+}
+/*Group selector */
+p, 
+h6 {
+    color :purple
+}
